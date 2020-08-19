@@ -1,0 +1,12 @@
+*** Getting Started ***
+
+Go to your terminal
+
+To get the node_modules
+npm install
+
+To run the test
+npm test
+
+To generate reports
+allure generate --clean && allure open
